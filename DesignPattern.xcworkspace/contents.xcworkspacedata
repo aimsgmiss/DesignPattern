@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:VisitorPattern/VisitorPattern.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Singleton/Singleton.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ResponsibiltyChain/ResponsibiltyChain.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSProxy/NSProxy.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Mediator/Mediator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Delegate/Delegate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Decorator/Decorator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Composite/Composite.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Command/Command.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Adapter/Adapter.xcodeproj">
+   </FileRef>
+</Workspace>
